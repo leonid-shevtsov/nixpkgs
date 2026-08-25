@@ -1,0 +1,19 @@
+maintainers/maintainer-list.nix
+  s_4eaa9a25c42992::t_a8d9fdaa5a0a0e 16116-16121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "36e7c0831fd87e0b073f14d2bb2d758f85bc5364",
+  "prompts": {},
+  "sessions": {
+    "s_4eaa9a25c42992": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "1c96d907-418c-43ad-b145-071dcd89d571",
+        "model": "auto-smart"
+      },
+      "human_author": "Leonid Shevtsov <leonid@shevtsov.me>"
+    }
+  }
+}
